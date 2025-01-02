@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif" group-title="الأردن", الأردن
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif" group-title="Jordan" tvg-language="Arabic", الأردن
 0.0.0.0
-#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="الأردن", الأردنية
+#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="Jordan" tvg-language="Arabic", الأردنية
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="الأردن", رؤيا
+#EXTINF:-1 tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="Jordan" tvg-language="Arabic",الأردن
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
-#EXTINF:-1 tvg-logo="https://royanews.tv/images/site/logo.png" group-title="الأردن", رؤيا الإخبارية
+#EXTINF:-1 tvg-logo="https://royanews.tv/images/site/logo.png" group-title="Jordan" tvg-language="Arabic", الأردن
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
-#EXTINF:-1 tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="الأردن", المملكة
+#EXTINF:-1 tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="Jordan" tvg-language="Arabic", الأردن
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" group-title="الأردن", عمان
+#EXTINF:-1 tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" group-title="Jordan" tvg-language="Arabic", الأردن
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 
