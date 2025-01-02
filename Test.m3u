@@ -92,7 +92,8 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 0.0.0.0
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-name="الأردنية" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="الأردن", الأردنية
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-##EXTINF:-1 tvg-id="JordanSports.il" tvg-name="الأردنية الرياضية" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" group-title="الأردن", الأردنية الرّياضية, fake-attribute="hidden"
+# #EXTINF:-1 tvg-id="JordanSports.il" tvg-name="الأردنية الرياضية" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" group-title="الأردن", الأردنية الرّياضية, fake-attribute="hidden"
+# http://0.0.0.0
 
 #EXTINF:-1 tvg-id="Roya.il" tvg-name="رؤيا" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="الأردن", رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
