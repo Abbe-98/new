@@ -1,10 +1,98 @@
+# Group: Live
+
+
+#EXTM3U
+# Group: إم بي سي - This section is for MBC channels
+0.0.0.0
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="إم بي سي 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="إم بي سي", إم بي سي 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="إم بي سي 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="إم بي سي", إم بي سي 2
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="إم بي سي 3" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="إم بي سي", إم بي سي 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC4HD.ae" tvg-name="إم بي سي 4" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" group-title="إم بي سي", إم بي سي 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC5HD.ae" tvg-name="إم بي سي 5" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" group-title="إم بي سي", إم بي سي 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-name="إم بي سي أكشن" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" group-title="إم بي سي", إم بي سي أكشن
+
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="إم بي سي ماكس" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="إم بي سي", إم بي سي ماكس
+
+#EXTINF:-1 tvg-id="MBCDramaHD.ae" tvg-name="إم بي سي دراما" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" group-title="إم بي سي", إم بي سي دراما
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="إم بي سي دراما+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" group-title="إم بي سي", إم بي سي دراما
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="إم بي سي بوليوود" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="إم بي سي", إم بي سي بوليوود
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBCVariety.ae" tvg-name="إم بي سي منوعة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="إم بي سي", إم بي سي منوعة
+
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-name="إم بي سي العراق" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="إم بي سي", إم بي سي العراق
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr1.ae" tvg-name="إم بي سي مصر 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="إم بي سي", إم بي سي مصر 1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="إم بي سي مصر 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="إم بي سي", إم بي سي مصر 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="WANASAH.ae" tvg-name="وناسة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg" group-title="إم بي سي", وناسة
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="إم بي سي إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg" group-title="إم بي سي", إم بي سي إف إم
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-name="إم بلس إتش دي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/m-plus.png" group-title="إم بي سي", إم بلس إتش دي
+
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="الرسالة" tvg-logo="https://rotana.net/triAssets/uploads/2021/04/resala.png" group-title="إم بي سي", الرسالة
+
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="إل بي سي" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="إم بي سي", إل بي سي
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QAF.sa" tvg-name="قاف" tvg-logo="https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg" group-title="إم بي سي", قاف
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Daawah.sa" tvg-name="دعوة" tvg-logo="https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png" group-title="إم بي سي", دعوة
+https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="إقرأ" tvg-logo="https://www.iqraa.com/images/lastlogo1.png" group-title="إم بي سي", إقرأ
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="Makkah.sa" tvg-name="مكة" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="إم بي سي", مكة
+https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
+#EXTINF:-1 tvg-id="HudaTV.sa" tvg-name="هدى تي في" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.webp" group-title="إم بي سي", هدى تي في
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="SSAD.sa" tvg-name="صاد" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" group-title="إم بي سي", صاد
+https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
+#EXTINF:-1 tvg-id="PANORAMAFM.ae" tvg-name="بانوراما إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg" group-title="إم بي سي", بانوراما إف إم
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-id="SPACETOON" tvg-name="سبيستون" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" group-title="إم بي سي", سبيستون
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+
+# Group: روتانا - This section is for Rotana channels
+0.0.0.0
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="روتانا خليجية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png" group-title="روتانا", روتانا خليجية
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="روتانا دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="روتانا", روتانا دراما
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinema.il" tvg-name="روتانا سينما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="روتانا", روتانا سينما
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.il" tvg-name="روتانا سينما مصر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="روتانا", روتانا سينما مصر
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="روتانا كلاسيك" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="روتانا", روتانا كلاسيك
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="روتانا كوميدي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png" group-title="روتانا", روتانا كوميدي
+https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="روتانا كيدز" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" group-title="المملكة روتانا", روتانا كيدز
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="روتانا كليب" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/clips.png" group-title="روتانا", روتانا كليب
+
+#EXTINF:-1 tvg-id="RotanaMusic.il" tvg-name="روتانا موسيقى" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="روتانا", روتانا موسيقى
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-name="روتانا +" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png" group-title="المملكة روتانا", روتانا
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="RotanaAflamPlus.sa" tvg-name="روتانا أفلام +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="روتانا", روتانا أفلام
+
+#EXTINF:-1 tvg-id="RotanaAmerica.sa" tvg-name="روتانا أمريكا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/america.png" group-title="روتانا", روتانا أمريكا
+
+
 #EXTM3U
 # Group: الأردن - This section is for Jordan channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-name="الأردنية" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="الأردن", الأردنية
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 tvg-id="JordanSports.il" tvg-name="الأردنية الرياضية" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" group-title="الأردن", الأردنية الرّياضية
-#http://example.com/stream.m3u8
+#EXTINF:-1 tvg-id="JordanSports.il" tvg-name="الأردنية الرياضية" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" group-title="الأردن", الأردنية الرّياضية, fake-attribute="hidden"
 
 #EXTINF:-1 tvg-id="Roya.il" tvg-name="رؤيا" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="الأردن", رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
@@ -14,7 +102,6 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="Amman.il" tvg-name="عمّان" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" group-title="الأردن", عـــمّــــان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-
 
 
 #EXTM3U
@@ -103,7 +190,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
 #EXTM3U
 # Group: الجزائر - This section is for Algeria channels
-#EXTINF:-1 tvg-id="AlgeriaFlag" tvg-name="الــــجزائر" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Algeria_240-animated-flag-gifs.gif" group-title="الجزائر", الــــجزائر
 0.0.0.0
 #EXTINF:-1 tvg-id="EPTV1" tvg-name="الأولى" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="الجزائر", الأولى
 https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
@@ -162,7 +248,6 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #EXTM3U
 # Group: المملكة العربية السعودية - This section is for Saudi-Arabia channels
-#EXTINF:-1 tvg-id="SaudiFlag" tvg-name="المملكة العربية السعودية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" group-title="المملكة العربية السعودية", المملكة العربية السعودية
 0.0.0.0
 #EXTINF:-1 tvg-id="SBC.sa" tvg-name="إس بي سي" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="المملكة العربية السعودية", إس بي سي
 https://sbc-prod-dub-ak.akamaized.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb/index.m3u8
