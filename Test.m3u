@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Jordan1" tvg-name="Jordan" tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif" group-title="Jordan", Jordan
+#EXTINF:-1 tvg-id="Jordan1" tvg-name="Jordan TV" tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif" group-title="Jordan",
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
-#EXTINF:-1 tvg-id="RoyaTV" tvg-name="Roya" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="Jordan", Roya
+#EXTINF:-1 tvg-id="RoyaTV" tvg-name="Roya TV" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="Jordan",
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 
 #EXTINF:-1 tvg-id="RoyaNews" tvg-name="Roya News" tvg-logo="https://royanews.tv/images/site/logo.png" group-title="Jordan", Roya News
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch39.m3u8
 
-#EXTINF:-1 tvg-id="AlMamlaka" tvg-name="Al-Mamlaka" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="Jordan", Al-Mamlaka
+#EXTINF:-1 tvg-id="AlMamlaka" tvg-name="AlMamlaka" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" group-title="Jordan", AlMamlaka
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AmmanTV" tvg-name="Amman TV" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" group-title="Jordan", Amman
+#EXTINF:-1 tvg-id="AmmanTV" tvg-name="AmmanTV" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" group-title="Jordan", Amman TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
