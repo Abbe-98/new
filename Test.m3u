@@ -4,6 +4,7 @@
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-name="الأردنية" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="الأردن", الأردنية
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="JordanSports.il" tvg-name="الأردنية الرياضية" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" group-title="الأردن", الأردنية الرّياضية
+#http://example.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="Roya.il" tvg-name="رؤيا" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" group-title="الأردن", رؤيا
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
@@ -17,7 +18,7 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="UAEPlaceholder" tvg-name="الإمارات العربية المتحدة" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif" group-title="الإمارات", الإمارات العربية المتحدة
+# Group: الإمارات - This section is for United Arab Emirates channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AbuDhabiTV" tvg-name="أبوظبي" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" group-title="الإمارات", أبوظبي
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
@@ -86,7 +87,7 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="BahrainFlag" tvg-name="البحرين" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated_flag_of_Bahrain.gif" group-title="البحرين", البحرين
+# Group: البحرين - This section is for Bahrain channels
 0.0.0.0
 #EXTINF:-1 tvg-id="BahrainMain" tvg-name="البحرين" tvg-logo="ttps://s3.eu-west-1.amazonaws.com//bahrainlive/Channel/636854244051420459055c8727-b18f-43dd-9a3f-b4cc73ca297e.png" group-title="البحرين", البحرين
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
@@ -101,6 +102,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 
 
 #EXTM3U
+# Group: الجزائر - This section is for Algeria channels
 #EXTINF:-1 tvg-id="AlgeriaFlag" tvg-name="الــــجزائر" tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/Algeria_240-animated-flag-gifs.gif" group-title="الجزائر", الــــجزائر
 0.0.0.0
 #EXTINF:-1 tvg-id="EPTV1" tvg-name="الأولى" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="الجزائر", الأولى
@@ -159,6 +161,7 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 
 #EXTM3U
+# Group: المملكة العربية السعودية - This section is for Saudi-Arabia channels
 #EXTINF:-1 tvg-id="SaudiFlag" tvg-name="المملكة العربية السعودية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Animated-Flag-Saudi-Arabia.gif" group-title="المملكة العربية السعودية", المملكة العربية السعودية
 0.0.0.0
 #EXTINF:-1 tvg-id="SBC.sa" tvg-name="إس بي سي" tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="المملكة العربية السعودية", إس بي سي
@@ -185,90 +188,89 @@ https://edge.taghtia.com/sa/10.m3u8
 https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSA4Sports.sa" tvg-name="السعودية الرياضية 4" tvg-logo="https://aloula.faulio.com/storage/mediagallery/1e/47/small_a4446176a6ae3f240cedf1bd07d782dfe32a76cf.png" group-title="المملكة العربية السعودية", السعودية الرياضية 4
 https://edge.taghtia.com/sa/17.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="إم بي سي 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="السعودية", إم بي سي 1
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-name="إم بي سي 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="المملكة العربية السعودية", إم بي سي 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="إم بي سي 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="السعودية", إم بي سي 2
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="إم بي سي 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="المملكة العربية السعودية", إم بي سي 2
 
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="إم بي سي 3" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="السعودية", إم بي سي 3
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-name="إم بي سي 3" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="المملكة العربية السعودية", إم بي سي 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC4HD.ae" tvg-name="إم بي سي 4" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" group-title="السعودية", إم بي سي 4
+#EXTINF:-1 tvg-id="MBC4HD.ae" tvg-name="إم بي سي 4" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" group-title="المملكة العربية السعودية", إم بي سي 4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC5HD.ae" tvg-name="إم بي سي 5" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" group-title="السعودية", إم بي سي 5
+#EXTINF:-1 tvg-id="MBC5HD.ae" tvg-name="إم بي سي 5" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" group-title="المملكة العربية السعودية", إم بي سي 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MBCAction.ae" tvg-name="إم بي سي أكشن" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" group-title="السعودية", إم بي سي أكشن
+#EXTINF:-1 tvg-id="MBCAction.ae" tvg-name="إم بي سي أكشن" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" group-title="المملكة العربية السعودية", إم بي سي أكشن
 
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="إم بي سي ماكس" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="السعودية", إم بي سي ماكس
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-name="إم بي سي ماكس" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="المملكة العربية السعودية", إم بي سي ماكس
 
-#EXTINF:-1 tvg-id="MBCDramaHD.ae" tvg-name="إم بي سي دراما" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" group-title="السعودية", إم بي سي دراما
+#EXTINF:-1 tvg-id="MBCDramaHD.ae" tvg-name="إم بي سي دراما" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" group-title="المملكة العربية السعودية", إم بي سي دراما
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="إم بي سي دراما+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" group-title="السعودية", إم بي سي دراما+
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="إم بي سي دراما+" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" group-title="المملكة العربية السعودية", إم بي سي دراما
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="إم بي سي بوليوود" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="السعودية", إم بي سي بوليوود
+#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="إم بي سي بوليوود" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="المملكة العربية السعودية", إم بي سي بوليوود
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MBCVariety.ae" tvg-name="إم بي سي منوعة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="السعودية", إم بي سي منوعة
+#EXTINF:-1 tvg-id="MBCVariety.ae" tvg-name="إم بي سي منوعة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="المملكة العربية السعودية", إم بي سي منوعة
 
-#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-name="إم بي سي العراق" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="السعودية", إم بي سي العراق
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-name="إم بي سي العراق" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="المملكة العربية السعودية", إم بي سي العراق
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr1.ae" tvg-name="إم بي سي مصر 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="السعودية", إم بي سي مصر 1
+#EXTINF:-1 tvg-id="MBCMasr1.ae" tvg-name="إم بي سي مصر 1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="المملكة العربية السعودية", إم بي سي مصر 1
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="إم بي سي مصر 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="السعودية", إم بي سي مصر 2
+#EXTINF:-1 tvg-id="MBCMasr2.ae" tvg-name="إم بي سي مصر 2" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="المملكة العربية السعودية", إم بي سي مصر 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="WANASAH.ae" tvg-name="وناسة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg" group-title="السعودية", وناسة
+#EXTINF:-1 tvg-id="WANASAH.ae" tvg-name="وناسة" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_wanasah_6e5de3ccae.svg" group-title="المملكة العربية السعودية", وناسة
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="إم بي سي إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg" group-title="السعودية", إم بي سي إف إم
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="إم بي سي إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_fm_a8ecfac455.svg" group-title="المملكة العربية السعودية", إم بي سي إف إم
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 tvg-id="PANORAMAFM.ae" tvg-name="بانوراما إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg" group-title="السعودية", بانوراما إف إم
+#EXTINF:-1 tvg-id="PANORAMAFM.ae" tvg-name="بانوراما إف إم" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg" group-title="المملكة العربية السعودية", بانوراما إف إم
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-id="SPACETOON" tvg-name="سبيستون" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" group-title="السعودية", سبيستون
+#EXTINF:-1 tvg-id="SPACETOON" tvg-name="سبيستون" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" group-title="المملكة العربية السعودية", سبيستون
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="روتانا خليجية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png" group-title="السعودية", روتانا خليجية
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-name="روتانا خليجية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Rotana_khalijia_New.png" group-title="المملكة العربية السعودية", روتانا خليجية
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="روتانا دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="السعودية", روتانا دراما
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-name="روتانا دراما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png" group-title="المملكة العربية السعودية", روتانا دراما
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
-#EXTINF:-1 tvg-id="RotanaCinema.il" tvg-name="روتانا سينما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="السعودية", روتانا سينما
+#EXTINF:-1 tvg-id="RotanaCinema.il" tvg-name="روتانا سينما" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="المملكة العربية السعودية", روتانا سينما
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.il" tvg-name="روتانا سينما مصر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="السعودية", روتانا سينما مصر
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.il" tvg-name="روتانا سينما مصر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="المملكة العربية السعودية", روتانا سينما مصر
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="روتانا كلاسيك" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="السعودية", روتانا كلاسيك
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-name="روتانا كلاسيك" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Rotana_Classic_New_Logo.png" group-title="المملكة العربية السعودية", روتانا كلاسيك
 https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
-#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="روتانا كوميدي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png" group-title="السعودية", روتانا كوميدي
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-name="روتانا كوميدي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png" group-title="المملكة العربية السعودية", روتانا كوميدي
 https://oppomu.serv00.net/comedy.php?channel=rcomedy&.m3u8
-#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="روتانا كيدز" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" group-title="السعودية", روتانا كيدز
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="روتانا كيدز" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/kids.png" group-title="المملكة العربية السعودية", روتانا كيدز
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="روتانا كليب" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/clips.png" group-title="السعودية", روتانا كليب
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-name="روتانا كليب" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/clips.png" group-title="المملكة العربية السعودية", روتانا كليب
 
-#EXTINF:-1 tvg-id="RotanaMusic.il" tvg-name="روتانا موسيقى" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="السعودية", روتانا موسيقى
+#EXTINF:-1 tvg-id="RotanaMusic.il" tvg-name="روتانا موسيقى" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png" group-title="المملكة العربية السعودية", روتانا موسيقى
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
-#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-name="روتانا +" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png" group-title="السعودية", روتانا +
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-name="روتانا +" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png" group-title="المملكة العربية السعودية", روتانا
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="RotanaAflamPlus.sa" tvg-name="روتانا أفلام +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="السعودية", روتانا أفلام +
+#EXTINF:-1 tvg-id="RotanaAflamPlus.sa" tvg-name="روتانا أفلام +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Rotana_Aflam_New.png" group-title="المملكة العربية السعودية", روتانا أفلام
 
-#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-name="إم بلس إتش دي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/m-plus.png" group-title="السعودية", إم بلس إتش دي
+#EXTINF:-1 tvg-id="MPlusHD.sa" tvg-name="إم بلس إتش دي" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/m-plus.png" group-title="المملكة العربية السعودية", إم بلس إتش دي
 
-#EXTINF:-1 tvg-id="RotanaAmerica.sa" tvg-name="روتانا أمريكا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/america.png" group-title="السعودية", روتانا أمريكا
+#EXTINF:-1 tvg-id="RotanaAmerica.sa" tvg-name="روتانا أمريكا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/america.png" group-title="المملكة العربية السعودية", روتانا أمريكا
 
-#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="الرسالة" tvg-logo="https://rotana.net/triAssets/uploads/2021/04/resala.png" group-title="السعودية", الرسالة
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="الرسالة" tvg-logo="https://rotana.net/triAssets/uploads/2021/04/resala.png" group-title="المملكة العربية السعودية", الرسالة
 
-#EXTINF:-1 tvg-id="LBC.sa" tvg-name="إل بي سي" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="السعودية", إل بي سي
+#EXTINF:-1 tvg-id="LBC.sa" tvg-name="إل بي سي" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="المملكة العربية السعودية", إل بي سي
 https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="QAF.sa" tvg-name="قاف" tvg-logo="https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg" group-title="السعودية", قاف
+#EXTINF:-1 tvg-id="QAF.sa" tvg-name="قاف" tvg-logo="https://qaf.tv/wp-content/uploads/2022/03/logo-2022.svg" group-title="المملكة العربية السعودية", قاف
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Daawah.sa" tvg-name="دعوة" tvg-logo="https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png" group-title="السعودية", دعوة
+#EXTINF:-1 tvg-id="Daawah.sa" tvg-name="دعوة" tvg-logo="https://daawah.tv/wp-content/uploads/2023/02/logo-43-1.png" group-title="المملكة العربية السعودية", دعوة
 https://cdg8.edge.technocdn.com/daawahtv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="إقرأ" tvg-logo="https://www.iqraa.com/images/lastlogo1.png" group-title="السعودية", إقرأ
+#EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="إقرأ" tvg-logo="https://www.iqraa.com/images/lastlogo1.png" group-title="المملكة العربية السعودية", إقرأ
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:-1 tvg-id="Makkah.sa" tvg-name="مكة" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="السعودية", مكة
+#EXTINF:-1 tvg-id="Makkah.sa" tvg-name="مكة" tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="المملكة العربية السعودية", مكة
 https://media2.streambrothers.com:1936/8122/8122/chunklist.m3u8
-#EXTINF:-1 tvg-id="HudaTV.sa" tvg-name="هدى تي في" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.webp" group-title="السعودية", هدى تي في
+#EXTINF:-1 tvg-id="HudaTV.sa" tvg-name="هدى تي في" tvg-logo="https://huda.tv/wp-content/uploads/2021/01/cropped-logo_200-150x150.webp" group-title="المملكة العربية السعودية", هدى تي في
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-id="SSAD.sa" tvg-name="صاد" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" group-title="السعودية", صاد
+#EXTINF:-1 tvg-id="SSAD.sa" tvg-name="صاد" tvg-logo="https://www.ssad.tv/uploads/ssadtv.logo_.intro_.e.gif" group-title="المملكة العربية السعودية", صاد
 https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="SudanFlag" tvg-name="السودان" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Animated-Flag-Sudan.gif" group-title="السودان", السودان  
+# Group: السودان - This section is for Sudan channels
 0.0.0.0
-
 #EXTINF:-1 tvg-id="SudanTV" tvg-name="قناة السودان" tvg-logo="https://sudantv.sd/ar/wp-content/themes/sudantv/images/logo.png" group-title="السودان", قناة السودان
 
 #EXTINF:-1 tvg-id="SudanNews" tvg-name="السودان الإخبارية" tvg-logo="" group-title="السودان", السودان الإخبارية
@@ -289,7 +291,7 @@ https://www.enterweb.tv:25463/live/ssadtv/live-tv/1.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="IraqFlag" tvg-name="الــــعــــراق" tvg-logo="https://cdn.pixabay.com/animation/2022/08/21/20/03/20-03-46-345_512.gif" group-title="العراق", الــــعــــراق
+# Group: العراق - This section is for Iraq channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AlIraqiya" tvg-name="العراقية" tvg-logo="https://imn.iq/wp-content/uploads/2022/04/1-9.jpg" group-title="العراق", العراقية
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
@@ -340,7 +342,7 @@ https://s1.ettehadlive.com/live/19/chunklist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="KuwaitFlag" tvg-name="الـــــكويت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Kuwait-animated.gif" group-title="الكويت", الـــــكويت
+# Group: الكويت - This section is for Kuwait channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Kuwait1" tvg-name="الكويت 1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/195/65a92f2a88.png" group-title="الكويت", الكويت 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
@@ -375,7 +377,7 @@ https://ffs.gulfsat.com/Marina-TV-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="MoroccoFlag" tvg-name="المغرب" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Animated-Flag-Morocco.gif" group-title="المغرب", المغرب
+# Group: المغرب - This section is for Morocco channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="الأولى" tvg-logo="https://i.ibb.co/WcFBy41/oula.png" group-title="المغرب", الأولى
 https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/index.m3u8
@@ -411,7 +413,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:atlasfight/chunklist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="YemenFlag" tvg-name="اليمن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_yemen.gif" group-title="اليمن", اليمن
+# Group: اليمن - This section is for Yemen channels
 0.0.0.0
 #EXTINF:-1 tvg-id="YemenTV" tvg-name="اليمن 1" tvg-logo="https://yementv.tv/wp-content/uploads/2019/11/logo-Yemen-01-copy.png" group-title="اليمن", اليمن 1
 
@@ -434,7 +436,7 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="TunisiaFlag" tvg-name="تونس" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Tunisia.gif" group-title="تونس", تونس
+# Group: تونس - This section is for Tunisia channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Wataniya1" tvg-name="الوطنية 1" tvg-logo="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" group-title="تونس", الوطنية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch96.m3u8
@@ -472,7 +474,7 @@ https://streaming.toutech.net/live/jtv/index.m3u8
  
 
 #EXTM3U
-#EXTINF:-1 tvg-id="SyriaFlag" tvg-name="سوريا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif" group-title="سوريا", سوريا
+# Group: سوريا - This section is for Syria channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AlMahliya" tvg-name="المحلية" tvg-logo="http://www.ortas.online/rtv_icons/Local_logo.png" group-title="سوريا", المحلية
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
@@ -501,7 +503,7 @@ https://ronahi-tv.akamaized.net/hls/stream_0.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="OmanFlag" tvg-name="عُمان" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Animated-Flag-Oman.gif" group-title="عُمان", عُمان
+# Group: عُمان - This section is for Oman channels
 0.0.0.0
 #EXTINF:-1 tvg-id="OmanTV" tvg-name="عُمان" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/om/omantv.png" group-title="عُمان", عُمان
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
@@ -516,7 +518,7 @@ https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Palestine.gif" group-title="فلسطين", فـــلسطــين
+# Group: فلسطين - This section is for Palestine channels
 0.0.0.0
 
 #EXTINF:-1 tvg-id="PalestineTV" tvg-name="فلسطين" tvg-logo="https://i0.wp.com/www.pbc.ps/wp-content/uploads/2021/08/pbc_logo_w256.png" group-title="فلسطين", فلسطين
@@ -570,7 +572,7 @@ https://htvint.mada.ps/orient/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Qatar" tvg-name="قـــــطـــر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Animated-Flag-Qatar.gif" group-title="قطر", قـــــطـــر
+# Group: قطر - This section is for Qatar channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Qatar1" tvg-name="قطر 1" tvg-logo="https://www.qtv.qa/Assets2022/images/logo.png" group-title="قطر", قطر 1
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
@@ -587,7 +589,7 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Lebanon" tvg-name="لــــبنـــان" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Animated-Flag-Lebanon.gif" group-title="لبنان", لــــبنـــان
+# Group: لبنان - This section is for Lebanon channels
 0.0.0.0
 #EXTINF:-1 tvg-id="LBC" tvg-name="أل بي سي" tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="لبنان", أل بي سي
 
@@ -619,7 +621,7 @@ https://live.alittihad.tv:444/ittihad/chunklist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Libya" tvg-name="لـيـــبـــيــا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Animated-Flag-Libya.gif" group-title="ليبيا", لـيـــبـــيــا
+# Group: ليبيا - This section is for Libya channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Salam" tvg-name="سلام" tvg-logo="https://i.ibb.co/vzZ6yvs/salam.png" group-title="ليبيا", سلام
 https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
@@ -643,7 +645,7 @@ https://media1.livaat.com/live/Libya-bussness/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Egypt" tvg-name="مــــصـــر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Egypt%28Moving%29.gif" group-title="مصر", مــــصـــر
+# Group: مصر - This section is for Egypt channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AlOula" tvg-name="الأولى" tvg-logo="https://www.maspero.eg/images/live_channels_logos/1667483608.jpeg" group-title="مصر", الأولى
 
@@ -698,7 +700,7 @@ https://n101.stream.tactivemedia.com/watantv/live/chunks.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Mauritania" tvg-name="مـــوريتانيا" tvg-logo="" group-title="موريتانيا", مـــوريتانيا
+# Group: موريتانيا - This section is for Mauritania channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Mauritania1" tvg-name="الموريتانية 1" tvg-logo="https://tvm.mr/ar/wp-content/uploads/2022/10/cropped-LOGO-FACEBOOK.png" group-title="موريتانيا", الموريتانية 1
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch47.m3u8
@@ -729,7 +731,7 @@ https://live.saharamedias.net/sahara24-live/tracks-v1a1/mono.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Atfal" tvg-name="أطفال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/This_was_4_of_Dafydd_Evans%27_children..gif" group-title="أطفال", أطفال
+# Group: أطفال - This section is for Atfal channels
 0.0.0.0
 #EXTINF:-1 tvg-id="SpaceToonFHD" tvg-name="سبيستون FHD" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" group-title="أطفال", سبيستون FHD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
@@ -753,7 +755,7 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Wathaeqi" tvg-name="وثائقي" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/This_was_4_of_Dafydd_Evans%27_children..gif" group-title="وثائقي", وثائقي
+# Group: وثائقي - This section is for Wathaeqi channels
 0.0.0.0
 #EXTINF:-1 tvg-id="NatGeoAbuDhabi" tvg-name="ناشيونال جيوغرافيك أبو ظبي" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png" group-title="وثائقي", ناشيونال جيوغرافيك أبو ظبي
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
@@ -768,7 +770,7 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Akhbar" tvg-name="أخبار" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif" group-title="أخبار", أخبار
+# Group: أخبار - This section is for Akhbar channels
 0.0.0.0
 #EXTINF:-1 tvg-id="AlJazeeraArabe.nws" tvg-name="الجزيرة الإخبارية" tvg-logo="https://i.ibb.co/884RcMF/aljazera.png" group-title="أخبار", الجزيرة الإخبارية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
@@ -817,7 +819,7 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="GlobalNews" tvg-name="أخبار دولية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Breaking.gif" group-title="أخبار دولية", أخبار دولية
+# Group: أخبار دولية - This section is for GlobalNews channels
 0.0.0.0
 #EXTINF:-1 tvg-id="CNN.nws" tvg-name="سي إن إن الدولية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/1200px-CNNinternational-logo.png" group-title="أخبار دولية", سي إن إن الدولية
 https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
