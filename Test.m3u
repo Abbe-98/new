@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JordanFlag" tvg-name="الأردن" tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif" group-title="الأردن", الأردن
+# Group: الأردن - This section is for Jordan channels
 0.0.0.0
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-name="الأردنية" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="الأردن", الأردنية
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
